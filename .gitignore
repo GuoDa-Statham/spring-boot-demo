@@ -1,7 +1,7 @@
 
 *.iml
 .idea
-spring-boot-demo/target/
+spring-boot-demo/target
 
 # Compiled class file
 *.class
